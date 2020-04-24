@@ -1,7 +1,11 @@
 # UNCC-MOD1Homework
 Homework assignment for Module 1 of UNCC Full-Stack Flex Bootcamp.
 
-This assignment provided an HTML and CSS file for a static webpage. It was my assignment to refactor the existing webpage for accessibility, but I also implemented semantic HTML and clean CSS styling to adhere to the Scout Rule of "Always leave the code you are editing a little cleaner than you found it."
+# Deployed Link
+https://hlsorrells.github.io/UNCC-MOD1Homework/
+
+# Project Description
+As my very first assignment for the bootcamp, this assignment provided an HTML and CSS file for a static webpage. It was my assignment to refactor the existing webpage for accessibility, but I also implemented semantic HTML and clean CSS styling to adhere to the Scout Rule of "Always leave the code you are editing a little cleaner than you found it."
 
 To make understanding the code easier for the next programmer to read it, I inserted comments before each of the HTML elements explaining their purpose. I ensured that the HTML code followed a logical flow and implemented the use of semantic HTML element tags. The CSS code was improved by the use of the semantic HTML elements as I was able to consolidate repetitious CSS code blocks into a single code block for that HTML element. This would allow for easier future changes to same code blocks which maintains uniformity and consistency within the code. It also allows for easier experimentation with prospective changes.
 
