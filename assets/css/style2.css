@@ -1,0 +1,30 @@
+body {
+    background-color: #d9dcd6;
+}
+
+header {
+    background-color: rgb(63, 62, 62);
+    color: #ffffff;
+}
+
+header h1 .seo {
+    color: #3e9c3a;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+main section {
+    background-color: gray;
+    color: black;
+}
+
+aside {
+    background-color: rgb(63, 62, 62);
+}
+
+aside section {
+    color: #ffffff;
+}
